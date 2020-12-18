@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/customizition.png</file>
+    <file>icons/Download.png</file>
+    <file>icons/folder_browse-512.png</file>
+    <file>icons/download1.png</file>
+    <file>icons/fg - Copy.png</file>
+    <file>icons/home.png</file>
+    <file>icons/images.png</file>
+    <file>icons/img_373619.png</file>
+    <file>icons/index.png</file>
+    <file>icons/notify.png</file>
+    <file>icons/recent-history-647981.png</file>
+    <file>icons/playlist.png</file>
+    <file>icons/search-512.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/youtube.png</file>
+    <file>icons/checkbox_checked_disabled.png</file>
+    <file>icons/checkbox_checked_focus.png</file>
+    <file>icons/youtube1.jpeg</file>
+  </qresource>
+</RCC>
